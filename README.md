@@ -102,9 +102,10 @@ $ rake acceptance:run COMPONENTS="cli"
 Use Vagrant for any software development project.  In fact, use Vagrant all the time.  If you haven't start yet, start now.  
 
 Start Using Vagrant in 3 Easy Step
-1. Set up - download and install Vagrant in your local machine
-2. Configure - create a single file for your project: describe your machine type, the software needed, and how you want to acces it
-3. Work - Run a single command `vagrant up` and sit back as Vagrant puts together your complete development environment
+
+	1. Set up - download and install Vagrant in your local machine
+	2. Configure - create a single file for your project: describe your machine type, the software needed, and how you want to acces it
+	3. Work - Run a single command `vagrant up` and sit back as Vagrant puts together your complete development environment
 
 ...
 
